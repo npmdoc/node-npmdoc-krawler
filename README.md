@@ -1,4 +1,7 @@
-# api documentation for  [krawler (v0.3.3)](https://github.com/ondrs/node-krawler#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-krawler.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-krawler) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-krawler.svg)](https://travis-ci.org/npmdoc/node-npmdoc-krawler)
+# npmdoc-krawler
+
+#### basic api documentation for  [krawler (v0.3.3)](https://github.com/ondrs/node-krawler#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-krawler.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-krawler) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-krawler.svg)](https://travis-ci.org/npmdoc/node-npmdoc-krawler)
+
 #### Fast and lightweight web crawler with built-in cheerio, xml and json parser.
 
 [![NPM](https://nodei.co/npm/krawler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/krawler)
@@ -82,7 +85,8 @@
     "scripts": {
         "test": "mocha test/index"
     },
-    "version": "0.3.3"
+    "version": "0.3.3",
+    "bin": {}
 }
 ```
 
