@@ -25,7 +25,7 @@
 <tspan x="10" y="362">  │ │   └── string_decoder@0.10.31 </tspan>
 <tspan x="10" y="378">  │ └── lodash@2.4.2 </tspan>
 <tspan x="10" y="394">  ├─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="410">  │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="410">  │ └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="426">  ├── jschardet@1.1.1 </tspan>
 <tspan x="10" y="442">  ├── q@1.0.1 </tspan>
 <tspan x="10" y="458">  ├─┬ request@2.34.0 </tspan>
